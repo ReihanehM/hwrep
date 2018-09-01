@@ -1,0 +1,4 @@
+#include <iostream> 
+int r=1;n=9;
+cout<<r<<n;
+return 0;
